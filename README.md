@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on: **AI/ML & Open Source Projects**
 - 🤔 I’m looking for help with: **Real-world AI/ML Projects**
 - 💬 Ask me about: **Excel, Power BI, Web Development**
-- 📫 How to reach me: **amitsharma@email.com**
+- 📫 How to reach me: **amitshofficial@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun Fact: **I love turning data & code into powerful solutions 🚀**
 
@@ -61,6 +61,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amitshofficial) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
