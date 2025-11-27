@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Analyst | 🤖 AI/ML Learner | 💻 Aspiring Software Engineer from India 🇮🇳</h3>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=amitshofficial&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amitshofficial&left_text=Profile%20Views" />
   <img src="https://img.shields.io/badge/Data%20Analyst-%2300C853?style=flat&logo=data&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%2FML-Learner-%23FF6F00?style=flat"/>
   <img src="https://img.shields.io/badge/Software-Engineer%20Aspirant-%230078D4?style=flat"/>
